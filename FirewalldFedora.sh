@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ADMIN_IP="192.168.1.50"
+ADMIN_IP="172.20.242.40"
 
 echo "[*] Enabling firewalld"
 systemctl enable --now firewalld
