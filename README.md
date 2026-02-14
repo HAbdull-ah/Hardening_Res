@@ -17,26 +17,23 @@ All materials are maintained for internal team use and continuous improvement be
 
 ---
 
-## Team Members
+## 2026 Team Roster
 
-### 2026 Team Roster
+### Networks / Firewalls
+- Palo Alto – Michael (Tech Lead)
+- Cisco FTD – Mehdi
 
-- **Networks / Firewalls**
-- Palo-Alto - Michael (Tech Lead)
-- Cisco FTD - Mehdi
+### Linux
+- Ecom – Hussein (Team Captain)
+- Splunk – Keegan
+- Fedora – Mehdi
+- Ubuntu Workstation – Michael
 
-- **Linux**
-- Ecom - Hussein (Team Captain)
-- Splunk - Keegan
-- Fedora - Mehdi
-- Ubuntu Workstation - Michael
-
-
-- **Windows**
-- AD / DNS - Abdul
-- FTP - Christopher
-- Web - Adam
-- Windows Workstation - Drabir
+### Windows
+- AD / DNS – Abdul
+- FTP – Christopher
+- Web – Adam
+- Windows Workstation – Drabir
 
 ---
 
